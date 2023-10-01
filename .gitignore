@@ -1,6 +1,6 @@
-#*Xcode
+#!Xcode
 #
-# gitignore contributors: remember to update Global/Xcode.gitignore, Objective-C.gitignore & Swift.gitignore
+#*gitignore contributors: remember to update Global/Xcode.gitignore, Objective-C.gitignore & Swift.gitignore
 
 ## Build generated
 build/
@@ -12,7 +12,7 @@ DerivedData/
 *.mode1v3
 *default.mode1v3
 *.mode2v3
-!default.mode2v3
+#default.mode2v3
 *.perspectivev3
 !default.perspectivev3
 xcuserdata/
@@ -74,4 +74,4 @@ Module.symvers
 Mkfile.old
 dkms.conf
 
- 
+  
